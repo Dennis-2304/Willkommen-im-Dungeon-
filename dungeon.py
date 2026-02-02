@@ -9,7 +9,7 @@ while energie > 0: # Solange der Spieler noch Energie hat
     print("Energie: " , energie) # Energie anzeigen
     print("---------------------") # Enter
 
-    wahl = input("Welche Tür nimmst du links oder rechts?").lower() # Spieler wird gefragt welche Tür
+    wahl = input("Welche Tür nimmst du links oder rechts?").lower() # Spieler wird gefragt welche Tür er nehmen soll
     effekt =random.randint(-2 , 2) # Zufallsefekt für die Energie
 
     if wahl == "links": # wenn Spieler links nimmt
@@ -34,5 +34,6 @@ print("Game Over") # Spiel Vorbei
 print("--------------------------I") # Enter
 print("Danke fürs Ausprobieren ! I ") # Schlusstext
 print("--------------------------I") # Enter
+
 
 
