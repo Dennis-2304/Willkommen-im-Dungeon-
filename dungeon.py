@@ -2,8 +2,9 @@ energie = 10 # Start Energie
 
 import random # Zufallsmodul einleiten
 print() # Enter
-print("------------------------") # Enter
-print("Willkommen im Dungeon !") # Begrüßung
+print("*************************") # Enter
+print("Willkommen im Dungeon ! *") # Begrüßung
+print("*************************)"
 while energie > 0: # Solange der Spieler noch Energie hat
     print("---------------------") # Enter
     print("Energie: " , energie) # Energie anzeigen
@@ -31,9 +32,10 @@ while energie > 0: # Solange der Spieler noch Energie hat
         break # dann hört die schleife auf Game over
 print() # Enter
 print("Game Over") # Spiel Vorbei
-print("--------------------------I") # Enter
-print("Danke fürs Ausprobieren ! I ") # Schlusstext
-print("--------------------------I") # Enter
+print("***************************") # Enter
+print("Danke fürs Ausprobieren ! * ") # Schlusstext
+print("***************************") # Enter
+
 
 
 
