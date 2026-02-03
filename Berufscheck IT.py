@@ -1,6 +1,6 @@
-print("---------------------------------]") # Enter
-print("Willkommen beim IT Berufs Check! ]") # Begrüßung
-print("---------------------------------]") # Enter
+print("***********************************") # Enter
+print("Willkommen beim IT Berufs Check!  *") # Begrüßung
+print("***********************************") # Enter
 print() # Enter
 alter = input("Wie alt bist du?") # Variable und Spieler wird Frage gestellt
 
@@ -31,7 +31,8 @@ print() # Enter
 print("du hast angegeben dass du " + alter + " Jahre alt bist. ") # Variable Alter wird eingefügt
 print() # Enter
 print() # Enter
-print("-------------------------]") # Enter
-print("Danke fürs Ausprobieren. ] ") # Schlusstext
-print("-------------------------]") # Enter
+print("**************************") # Enter
+print("Danke fürs Ausprobieren. * ") # Schlusstext
+print("**************************") # Enter
+
 
