@@ -32,5 +32,5 @@ Random = Zufallseffekte (Wie viel Energie man verliert oder gewinnt.)
 Bedingungen (if/else/elif)
 
 (WICHTIG !!)
-LÄUFT NICHT ohne Python Installer/Exe. Falls Python bei ihnen nicht vorhanden ist, können sie eine Kleine Version bei Mir Runterladen.
+LÄUFT NICHT ohne Python Installer/Exe. Falls Python bei ihnen nicht vorhanden ist, können sie eine kleine Runtime Version bei Mir Runterladen.
 --------------------------------------------------------------------------------------------------------------------------------------
