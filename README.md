@@ -1,39 +1,10 @@
-(Berufscheck IT.py)
----------------------
-Ein Kleiner Berufscheck um zu gucken ob IT das Richtige für dich ist.
-
-Funktionen:
-
-Benutzer Eingaben (Benutzer wählt Ja oder Nein)
-
-Schleifen (Bestimmen den Ablauf vom Berufscheck)
-
-Bedingungen (if/else/elif)
-
-----------------------------------------------------
-
-(Dungeon.py)
---------------------
-Dungeon Energie Spiel mit Python gemacht.
-
-Ein kleines Konsolenspiel, bei dem der Spieler durch Türen geht und Energie gewinnt oder verliert. 
-Ziel ist es, so lange wie möglich zu überleben.
-
-Funktionen:
-
-Spieler Eingaben (Spieler wählt Tür Links oder Rechts.)
-
-Schleifen (Bestimmen den Spielablauf)
-
-Energieverwaltung (Man sieht seine Energie anzeige.)
-
-Random = Zufallseffekte (Wie viel Energie man verliert oder gewinnt.)
-
-Bedingungen (if/else/elif)
+In Jedem Meiner Projekte, ist ein README enthalten dort können sie sehen was das für ein Projekt ist und was für Funktionen es hat.
 
 ******************
 WICHTIG !! 
 ******************
 Falls Python nicht installiert ist,  
-kann das Projekt über den grünen Code-Button als ZIP-Datei heruntergeladen werden.  
-Nach dem Entpacken kann das Programm lokal mit Python 3 gestartet werden.
+kann man über den grünen „Code“-Button das ZIP runterladen.
+Nach dem Entpacken könnt ihr das Programm mit Python 3 starten oder über die mitgelieferte Runtime, falls ihr Python nicht installiert habt.  
+
+Viel Spaß beim Ausprobieren !
